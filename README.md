@@ -1,2 +1,2 @@
 # Weather-clone
-Created a weather clone using HTML , CSS and JavaScript
+Created a fully functional weather clone using HTML , CSS and JavaScript with API calls 
